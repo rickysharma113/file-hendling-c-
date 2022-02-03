@@ -34,6 +34,5 @@ int main(){
     obj<<st13;
     obj<<st14;
     obj.close();
-    
     return 0;
 }
